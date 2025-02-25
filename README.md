@@ -80,5 +80,7 @@ Qwen был использован для создания системного 
 - Расширение базы знаний за счёт автоматического парсинга внутренних документов компании.
 - Внедрение системы обратной связи для сбора отзывов сотрудников о работе ассистента.
 
-Скриншот диалога:
-![image](https://raw.githubusercontent.com/Olesya-create/ai_assistent/482caaf85b3a66810f1ad3538d734a7bb610adce/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
+
+
+
+[Скриншот диалога](https://raw.githubusercontent.com/Olesya-create/ai_assistent/482caaf85b3a66810f1ad3538d734a7bb610adce/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
